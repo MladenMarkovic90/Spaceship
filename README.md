@@ -1,3 +1,5 @@
+![https://github.com/MladenMarkovic90/Spaceship/blob/master/Screenshot/SS1.jpg]
+
 You will need to download Freeglut3 from: http://freeglut.sourceforge.net/
 
 Make sure the image files are in same folder as the game file
