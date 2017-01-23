@@ -1,4 +1,4 @@
-![https://github.com/MladenMarkovic90/Spaceship/blob/master/Screenshot/SS1.jpg]
+![Image1](https://github.com/MladenMarkovic90/Spaceship/blob/master/Screenshot/SS1.jpg)
 
 You will need to download Freeglut3 from: http://freeglut.sourceforge.net/
 
